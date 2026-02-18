@@ -4,8 +4,6 @@ I'm a second-year Math student at the University of Waterloo, interested in AI &
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/maximiliantmiller)
 [![Devpost](https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=Devpost&logoColor=white)](https://devpost.com/mtmlr101?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/2q1kx3zbnd9xayhtzccg5naq3?si=a38992f160f9454e)
-[![DoraHacks](https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=Devpost&logoColor=white)](https://dorahacks.io/hacker/mtmlr)
-
 
 # **Languages & Tools:** 
 <div style="margin-bottom: 20px;">
