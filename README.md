@@ -1,15 +1,34 @@
-# Hi, I'm Max <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">
-I'm a second-year Math student at the University of Waterloo, interested in AI & ML <br>
+<div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/maximiliantmiller)
-[![Devpost](https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=Devpost&logoColor=white)](https://devpost.com/mtmlr101?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/2q1kx3zbnd9xayhtzccg5naq3?si=a38992f160f9454e)
+```
+███╗   ███╗ █████╗ ██╗  ██╗
+████╗ ████║██╔══██╗╚██╗██╔╝
+██╔████╔██║███████║ ╚███╔╝ 
+██║╚██╔╝██║██╔══██║ ██╔██╗ 
+██║ ╚═╝ ██║██║  ██║██╔╝ ██╗
+╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝
+```
 
-# **Languages & Tools:** 
-<div style="margin-bottom: 20px;">
-  <img src="https://skillicons.dev/icons?i=py,flask,tensorflow,opencv,mysql&perline=5" alt="" style="width: 50%;"/>
-  <img src="https://skillicons.dev/icons?i=javascript,nodejs,react,electron,mongodb&perline=5" alt="" style="width: 50%;"/>
+### `math` × `machine learning` × `building useful things`
+
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=9B59B6)](https://linkedin.com/in/maximiliantmiller)
+[![Blog](https://img.shields.io/badge/Blog-0a0a0a?style=for-the-badge&logo=blog&logoColor=9B59B6)](https://maxtmiller.github.io)
+[![Website](https://img.shields.io/badge/Website-0a0a0a?style=for-the-badge&logo=website&logoColor=9B59B6)](https://maxtmiller.dev)
+
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=9B59B6&center=true&vCenter=true&width=435&lines=Solving+real+problems;Obsessed+with+learning;Designing+with+code" alt="Typing SVG" />
+
 </div>
 
-### _______________________________________________________________________________________
-![](https://komarev.com/ghpvc/?username=maxtmiller&color=blueviolet&abbreviated=true)
+<!-- <div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=maxtmiller&bg_color=0d0d0d&color=9B59B6&line=7D3C98&point=ffffff&hide_border=true" width="100%"/>
+
+</div> -->
+
+---
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=maxtmiller&color=9B59B6&style=for-the-badge&label=VISITORS&abbreviated=true"/>
+</div>
